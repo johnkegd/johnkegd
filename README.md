@@ -26,20 +26,19 @@
 
 <br />
 
-Hi, I'm John Garcia, a Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 🙍🏽‍♂️ [@SoloLearn](https://www.sololearn.com/), Freelancer 👨🏽‍💻 [@Carenadosgp](https://www.carenadosgp.com), voluntary 👨🏽‍💼[@1hour1life](https://1hour.life/) and a member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming, I enjoy eating food, caffe and traveling.
+Hi, I'm John Garcia, a Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 	&#129489; [@SoloLearn](https://www.sololearn.com/Profile/6936974/), Freelancer 👨🏽‍💻 [@Carenadosgp](https://www.carenadosgp.com), voluntary 👨🏽‍💼[@1hour1life](https://1hour.life/) and a member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming, I enjoy eating food, caffe and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/26gsjtT0QD6Ae42vS/giphy.gif" />
+  <img align="right" alt="Johnkegd - developer gif" src="https://media.giphy.com/media/26gsjtT0QD6Ae42vS/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/johnkegd/dev_portafolio);
 - 🌱 I’m currently learning GraphQL and Spring Boot Framework; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/johnkegd/happinessometer) 🤝;
+- 👯 I’m Starting a funny project in [A-POP](https://github.com/johnkegd/happinessometer) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: johnkegd@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝[Resume](https://drive.google.com/file/d/1IYK80aGGeSLcmZEL9b2oscV4JQureuNJ/view)
 
 **Languages and Tools:**  
 
