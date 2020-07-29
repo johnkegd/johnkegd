@@ -28,7 +28,7 @@
 
 Hi, I'm John Garcia, a Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 🙍🏽‍♂️ [@SoloLearn](https://www.sololearn.com/), Freelancer 👨🏽‍💻 [@Carenadosgp](https://www.carenadosgp.com), voluntary 👨🏽‍💼[@1hour1life](https://1hour.life/) and a member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming, I enjoy eating food, caffe and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l3vQZtWkTFOoHeIcE/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/26gsjtT0QD6Ae42vS/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
