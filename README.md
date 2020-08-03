@@ -35,7 +35,7 @@ A Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 	&
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1IYK80aGGeSLcmZEL9b2oscV4JQureuNJ/view) permision needed
+- 📝[Resume](https://drive.google.com/file/d/1IYK80aGGeSLcmZEL9b2oscV4JQureuNJ/view) *permission needed*
 
 **Languages and Tools:**  
 
