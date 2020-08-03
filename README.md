@@ -19,7 +19,7 @@
 </a>
 
 
-![Numbers](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
+![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
 
 <br />
 
