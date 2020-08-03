@@ -2,11 +2,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/johnkegd/">
-  <img align="left" alt="Johnkegd LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 <a href="https://stackoverflow.com/users/10732933/johnkegd">
   <img align="left" alt="Johnekgd StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />
+</a>
+<a href="https://www.linkedin.com/in/johnkegd/">
+  <img align="left" alt="Johnkegd LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.sololearn.com/Profile/6936974/">
   <img align="left" alt="Johnkegd SoloLearn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xcode.svg" />
