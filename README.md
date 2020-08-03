@@ -54,7 +54,7 @@ A Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 	&
 
 
 
-![Johnkegd github stats](https://github-readme-stats.vercel.app/api?username=johnkegd&show_icons=true&hide_border=false)
+![Johnkegd github stats](https://github-readme-stats.vercel.app/api?username=johnkegd&show_icons=true&hide_border=true)
 
 
 <!--
