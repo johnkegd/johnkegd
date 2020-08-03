@@ -1,10 +1,7 @@
-### Hey 👋🏽, I'm [Johnkegd!](https://johnkegd.netlify.app) 
+### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app) 
 
 <br/>
 
-<a href="https://discord.gg/pvb2RB">
-  <img align="left" alt="Johnkegd Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/johnkegd/">
   <img align="left" alt="Johnkegd LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,7 +19,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
+![Numbers](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
 
 <br />
 
