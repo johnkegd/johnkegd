@@ -30,10 +30,10 @@ A Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 	&
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/johnkegd/dev_portafolio);
+- 👨🏽‍💻 I’m currently working on [AppRestTemlate](https://github.com/johnkegd/AppRestTemplate);
 - 🌱 I’m currently learning GraphQL and Spring Boot Framework; 
-- 👯 I’m Starting a funny project in [A-POP](https://github.com/johnkegd/happinessometer) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👯 I’m Starting a funny project in [HappinesSometer](https://github.com/johnkegd/happinessometer) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1IYK80aGGeSLcmZEL9b2oscV4JQureuNJ/view) *permission needed*
