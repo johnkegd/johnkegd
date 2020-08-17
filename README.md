@@ -31,6 +31,7 @@ A Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 	&
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [AppRestTemlate](https://github.com/johnkegd/AppRestTemplate);
+- 🌱 Currently preparing for (Oracle) exam 1Z0-808 Java SE Developer; 
 - 🌱 I’m currently learning GraphQL and Spring Boot Framework; 
 - 👯 I’m Starting a funny project in [HappinesSometer](https://github.com/johnkegd/happinessometer) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms;
@@ -46,7 +47,7 @@ A Full Stack Developer 🚀 from Venezuela, currently, I'm a Community Member 	&
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
