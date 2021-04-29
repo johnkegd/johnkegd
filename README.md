@@ -1,3 +1,5 @@
+<img align="right" alt="johnkegd developer animated logo" height="150px" src="https://media.giphy.com/media/yJdGXsZeF43seJLzfh/giphy.gif" />
+
 ### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app) 🚀 new PWA coming soon.!
 
 <br/>
@@ -25,8 +27,6 @@
 <br />
 
 A Software engineer from Venezuela, currently living in Swtizerland, I'm a member  of an amazing community	&#129489; [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working by 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming and learn, I enjoy eating food, caffe and moto traveling.
-
-  <img align="center" alt="johnkegd developer animated logo" height="200px" src="https://media.giphy.com/media/yJdGXsZeF43seJLzfh/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
