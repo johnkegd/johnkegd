@@ -1,6 +1,6 @@
 <img align="right" alt="johnkegd developer animated logo" height="150px" src="https://media.giphy.com/media/yJdGXsZeF43seJLzfh/giphy.gif" />
 
-### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app) 🚀 new PWA coming soon.!
+### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app)<br/> new PWA coming soon.! 🚀
 
 <br/>
 
@@ -26,12 +26,12 @@
 
 <br />
 
-A Software engineer from Venezuela, currently living in Swtizerland, I'm a member  of an amazing community	&#129489; [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working by 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming and learn, I enjoy eating food, caffe and moto traveling.
+A Software engineer from Venezuela, currently living in Swtizerland, I'm a member  of an amazing community	&#129489; [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working by 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming and learn, I enjoy eating food, caffe and 🏍motorcycle.
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Gwendolin-PWA] implementing svelte ❤️;
-- 🌱 I’m currently learning Svelte Spring Boot Framework; 
+- 🌱 I’m currently learning Svelte, Spring Boot Framework; 
 - 🤔 I’m looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
@@ -40,16 +40,16 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/svelte.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/svelte.svg"></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
