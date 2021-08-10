@@ -93,10 +93,3 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 
 [![Johnkegd github stats](https://github-readme-stats.vercel.app/api?username=johnkegd&theme=dark&include_all_commits=true&count_private=true&icon_color=ffb606&text_color=fafafa&bg_color=0d1117&show_icons=true&hide_border=true&title_color=ffb606 "Johnkegd stats")](https://github.com/johnkegd?tab=repositories)
 
-<div>
-<br/>
-  <a>
-  <img src="car-animated.svg"/>
-  </a>
-  <br/>
-</div>
