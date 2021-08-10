@@ -1,10 +1,8 @@
-<img align="right" alt="johnkegd developer animated logo" height="150px" src="https://media.giphy.com/media/yJdGXsZeF43seJLzfh/giphy.gif" />
+<img align="right" alt="johnkegd developer animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 
 ### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app)<br/> new PWA coming soon.! 🚀
 
 <br/>
-
-
 <a href="https://stackoverflow.com/users/10732933/johnkegd">
   <img align="left" alt="Johnekgd StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />
 </a>
@@ -24,10 +22,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
 
-<br />
-
 A Software engineer from Venezuela, currently living in Swtizerland, I'm a member  of an amazing community	&#129489; [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working by 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming and learn, I enjoy eating food, caffe and 🏍motorcycle.
-  
+  *  *  *  *  *
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Gwendolin-PWA] implementing svelte ❤️;
@@ -36,6 +33,7 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
 - ⚡ Fun fact: learning to code helped me cook better and faster. 😂
+*  *  *  *  *
 
 **Languages and Tools:**  
 
