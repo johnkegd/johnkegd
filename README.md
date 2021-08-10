@@ -1,6 +1,7 @@
 <a href="https://github.com/johnkegd">
 <img align="right" alt="johnkegd developer animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 </a>
+
 ### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app)<br/> new PWA coming soon.! 🚀
 
 <br/>
