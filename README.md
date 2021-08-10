@@ -1,5 +1,5 @@
 <a href="https://github.com/johnkegd">
-<img align="right" alt="johnkegd developer animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
+<img align="right" alt="johnkegd animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 </a>
 
 ### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app)<br/> new PWA coming soon.! 🚀
@@ -41,7 +41,7 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 
 ---
 
-**Languages and Tools:**
+**Languages and Skills:**
 
 <code>
 <a href="https://github.com/johnkegd?tab=repositories">
@@ -84,6 +84,11 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </a>
 </code>
+
+  <a href="https://github.com/johnkegd">
+  <img align="right" width="350px" src="car-animated.svg" alt="animated car driving johnkegd logo"/>
+  </a>  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkegd&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffb606 "Johnkegd skills")](https://github.com/johnkegd?tab=repositories)
 
