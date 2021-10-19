@@ -86,9 +86,8 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 </code>
 
   <a href="https://github.com/johnkegd">
-  <img align="right" width="350px" src="car-animated.svg" alt="animated car driving johnkegd logo"/>
-  </a>  
-
+  <img align="right" width="350px" src="rocket-flying.svg" alt="animated rocket flying johnkegd logo"/>
+  </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkegd&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffb606 "Johnkegd skills")](https://github.com/johnkegd?tab=repositories)
 
@@ -97,4 +96,3 @@ A Software engineer from Venezuela, currently living in Swtizerland, I'm a membe
 **Github stats and others:**
 
 [![Johnkegd github stats](https://github-readme-stats.vercel.app/api?username=johnkegd&theme=dark&include_all_commits=true&count_private=true&icon_color=ffb606&text_color=fafafa&bg_color=0d1117&show_icons=true&hide_border=true&title_color=ffb606 "Johnkegd stats")](https://github.com/johnkegd?tab=repositories)
-
