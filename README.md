@@ -7,19 +7,19 @@
 <br/>
 
 <a href="https://stackoverflow.com/users/10732933/johnkegd">
-  <img align="left" alt="Johnekgd StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />
+  <img align="left" alt="John Garcia StackOverflow logo" width="22px" src="stack-overflow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/johnkegd/">
-  <img align="left" alt="Johnkegd LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="John Garcia linkedin logo" width="22px" src="linkedin.svg" />
 </a>
 <a href="https://www.sololearn.com/Profile/6936974/">
-  <img align="left" alt="Johnkegd SoloLearn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xcode.svg" />
+  <img align="left" alt="John Garcia SoloLearn logo" width="22px" src="sololearn.svg" />
 </a>
 <a href="https://www.hackerrank.com/Johnkegd">
-  <img align="left" alt="Johnkegd Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerrank.svg" />
+  <img align="left" alt="John Garcia Hackerrank logo" width="22px" src="hackerrank.svg" />
 </a>
 <a href="https://gitlab.com/johnkegd/">
-  <img align="left" alt="Johnkegd Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gitlab.svg" />
+  <img align="left" alt="John Garcia Gitlab logo" width="22px" src="gitlab.svg" />
 </a>
 <br/>
 <br/>
