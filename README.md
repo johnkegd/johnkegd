@@ -26,7 +26,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
 
-Software engineer passionte about technology, currently living in Swtizerland🇨🇭. I'm a member of an amazing coders community &#129489; [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working by 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming and learn, I enjoy eating food, caffe, weird experiments with threejs library xd, and the road with my beautiful motorcycle 🏍.
+Software engineer passionte about technology, currently living in Swtizerland🇨🇭. I'm a member of an amazing coders community [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working by 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Beside's programming and learn, I enjoy eating food, caffe, weird experiments with threejs library xd, and the road with my beautiful motorcycle 🏍.
 
 **Talking about Personal Stuffs:**
 
