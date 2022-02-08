@@ -84,7 +84,7 @@ Software engineer passionate about technology, currently living in SwtizerlandðŸ
 </code>
 
   <a href="https://github.com/johnkegd">
-  <img align="right" width="350px" src="rocket-flying-v2.svg" alt="animated rocket flying johnkegd logo"/>
+  <img align="right" width="350px" src="rocket-flying-v1.1.svg" alt="animated rocket flying johnkegd logo"/>
   </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkegd&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffb606 "Johnkegd skills")](https://github.com/johnkegd?tab=repositories)
