@@ -7,19 +7,19 @@
 <br/>
 
 <a href="https://stackoverflow.com/users/10732933/johnkegd">
-  <img align="left" alt="John Garcia StackOverflow logo" width="22px" src="stack-overflow.svg" />
+  <img align="left" alt="John Garcia StackOverflow logo" width="22px" src="images/icons/stack-overflow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/johnkegd/">
-  <img align="left" alt="John Garcia linkedin logo" width="22px" src="linkedin.svg" />
+  <img align="left" alt="John Garcia linkedin logo" width="22px" src="images/icons/linkedin.svg" />
 </a>
 <a href="https://www.sololearn.com/Profile/6936974/">
-  <img align="left" alt="John Garcia SoloLearn logo" width="22px" src="sololearn.svg" />
+  <img align="left" alt="John Garcia SoloLearn logo" width="22px" src="images/icons/sololearn.svg" />
 </a>
 <a href="https://www.hackerrank.com/Johnkegd">
-  <img align="left" alt="John Garcia Hackerrank logo" width="22px" src="hackerrank.svg" />
+  <img align="left" alt="John Garcia Hackerrank logo" width="22px" src="images/icons/hackerrank.svg" />
 </a>
 <a href="https://gitlab.com/johnkegd/">
-  <img align="left" alt="John Garcia Gitlab logo" width="22px" src="gitlab.svg" />
+  <img align="left" alt="John Garcia Gitlab logo" width="22px" src="images/icons/gitlab.svg" />
 </a>
 <br/>
 <br/>
@@ -55,13 +55,13 @@ Software engineer passionate about technology, currently living in SwtizerlandðŸ
 
 <code>
 <a href="https://github.com/johnkegd?tab=repositories">
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/svelte.svg">
+<img height="20" width="20" src="images/icons/svelte.svg">
 </a>
 </code>
 
 <code>
 <a href="https://github.com/johnkegd?tab=repositories">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg">
+<img height="50" width="50" src="images/icons/java.svg">
 </a>
 </code>
 
@@ -84,7 +84,7 @@ Software engineer passionate about technology, currently living in SwtizerlandðŸ
 </code>
 
   <a href="https://github.com/johnkegd">
-  <img align="right" width="350px" src="rocket-flying-v1.1.svg" alt="animated rocket flying johnkegd logo"/>
+  <img align="right" width="350px" src="images/animations/rocket-flying-v1.1.svg" alt="animated rocket flying johnkegd"/>
   </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkegd&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffb606 "Johnkegd skills")](https://github.com/johnkegd?tab=repositories)
