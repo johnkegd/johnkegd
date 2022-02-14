@@ -32,6 +32,7 @@ Software engineer passionate about technology, currently living in Swtizerland�
 
 - 👨🏽‍💻 I’m currently working on [Gwendolin-PWA] implementing svelte ❤️;
 - 🌱 I’m currently learning Svelte, Spring Boot Framework;
+- 🌱 I’m currently learning Threejs 3d animation library
 - 🤔 I’m looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
