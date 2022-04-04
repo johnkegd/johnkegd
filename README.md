@@ -32,7 +32,7 @@ Software engineer passionate about technology, currently living in Swtizerland�
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Cerescreations](https://cerescreations.netlify.app) portofolio implementing my two loves Threejs and Svelte 🧡;
-- 🌱 Currently learning Svelte, Spring Boot Framework and Threejs 3d animation library 🧡;
+- 🌱 Learning Svelte, Spring Boot Framework and Threejs 3d animation library 🧡;
 - 🤔 Looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
