@@ -37,7 +37,7 @@ Software engineer passionate about technology, currently living in Swtizerland�
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
 - ⚡ Fun fact: learning to code helped me cook better and faster. 😂;
-- 😎 Cool fact: My Girldfriend <a href="https://github.com/Gwendolin-Anna">@gwendolinanna</a> is the number one🏆 in [@SoloLearn](https://www.sololearn.com/profile/12242887) Swtizerland🇨🇭. In  and she's coders too. 🥰 Here her currently work on progress [Gwendolinanna](https://www.gwendolinanna.com) portfolio;
+- 😎 Cool fact: My Girldfriend <a href="https://github.com/Gwendolin-Anna">@gwendolinanna</a> is the number one🏆 in [@SoloLearn](https://www.sololearn.com/profile/12242887) Swtizerland🇨🇭. So she's coders too 🥰. Here her currently work on progress [Gwendolinanna](https://www.gwendolinanna.com) portfolio;
 - 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeller. so my path with the 3d world seems to be predestined. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
 
 ---
