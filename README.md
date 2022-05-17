@@ -40,6 +40,11 @@ Software engineer passionate about technology, currently living in Swtizerland�
 - 😎 Cool fact: My Girldfriend <a href="https://github.com/Gwendolin-Anna">@gwendolinanna</a> is the number one🏆 in [@SoloLearn](https://www.sololearn.com/profile/12242887) Swtizerland🇨🇭. So she's coders too 🥰. Here her currently work on progress [Gwendolinanna](https://www.gwendolinanna.com) portfolio;
 - 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeller. so my path with the 3d world seems to be predestined. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
 
+<h2>2021 Colaborations in 3d ready for VR - click ⬇️</h2>
+<a href="https://skyline.github.com/johnkegd/2021">
+<img align="right" alt="johnkegd animated logo" width="100%" src="https://media.giphy.com/media/JKEqkGAFwOQIZEBxxj/giphy.gif" />
+</a>
+
 ---
 
 **Languages and Skills:**
