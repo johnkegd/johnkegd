@@ -32,7 +32,7 @@ Software engineer passionate about technology, currently living in Swtizerland�
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working in a personal project on [Solmedicven](https://solmedicven.com) Medical equipment company🧡;
-- 🌱 Learning Svelte, AEM, Spring Boot Framework and Threejs 3d animation library 🧡;
+- 🌱 Learning Svelte, AEM, Spring Boot Framework, Threejs 3d animation library, Gsap, Angular and everything i need, to somewhen create something people want. 🧡;
 - 🤔 Looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: johnkegd@gmail.com;
