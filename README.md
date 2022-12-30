@@ -48,49 +48,36 @@ Software engineer passionate about technology, currently living in SwtizerlandðŸ
 ---
 
 **Languages and Skills:**
-
-<code>
+<div class="programming-lang-container btn d-md-inline-block">
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </a>
-</code>
 
-<code>
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </a>
-</code>
 
-<code>
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="20" width="20" src="images/icons/svelte.svg">
 </a>
-</code>
 
-<code>
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="50" width="50" src="images/icons/java.svg">
 </a>
-</code>
 
-<code>
+
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
-</code>
 
-<code>
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </a>
-</code>
 
-<code>
 <a href="https://github.com/johnkegd?tab=repositories">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </a>
-</code>
-
+</div>
   <a href="https://github.com/johnkegd">
   <img align="right" width="350px" src="images/animations/rocket-flying-v1.1.svg" alt="animated rocket flying johnkegd"/>
   </a>
