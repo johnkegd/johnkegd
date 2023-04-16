@@ -26,21 +26,21 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
 
-Software engineer passionate about technology, currently living in Swtizerland🇨🇭. I'm a member of an amazing coders community [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working for 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Besides programming and learning, I really enjoy a good caffe, weird experiments with threejs library, and the road with my beautiful motorcycle 🏍.
+Software engineer passionate about technology, currently living in Switzerland🇨🇭. I'm a member of an amazing coder's community [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working for 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Besides programming and learning, I really enjoy a good coffee, weird experiments with threejs library, and the road with my beautiful motorcycle 🏍.
 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in a personal project on [Solmedicven](https://solmedicven.com) Medical equipment company🧡;
-- 🌱 Learning Svelte, AEM, Spring Boot Framework, Threejs 3d animation library, Gsap, Angular and everything i need, to somewhen create something people want. 🧡;
+- 👨🏽‍💻 I’m currently working in a personal project on [Solmedicven](https://solmedicven.com) Medical services and equipment 🧡;
+- 🌱 Learning Svelte, AEM, Spring Boot Framework, Threejs 3d animation library, Gsap, Angular and everything I need, to some when create something people want. 🧡;
 - 🤔 Looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: johnkegd@gmail.com;
+- 📫 How to reach me: john.garcia@johnkegd.com;
 - ⚡ Fun fact: learning to code helped me cook better and faster. 😂;
-- 😎 Cool fact: My Girldfriend <a href="https://github.com/Gwendolin-Anna">@gwendolinanna</a> is the number one🏆 in [@SoloLearn](https://www.sololearn.com/profile/12242887) Swtizerland🇨🇭. So she's coders too 🥰. Here her currently work on progress [Gwendolinanna](https://www.gwendolinanna.com) portfolio;
-- 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeller. so my path with the 3d world seems to be predestined. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
+- 😎 Cool fact: My Girlfriend <a href="https://github.com/Gwendolin-Anna">@gwendolinanna</a> is the number one🏆 in [@SoloLearn](https://www.sololearn.com/profile/12242887) Swtizerland🇨🇭. So she's coders too 🥰.
+- 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeler. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
 
-<h2>2021 Colaborations in 3d ready for VR - click ⬇️</h2>
+<h2>2021 Collaborations in 3d ready for VR - click ⬇️</h2>
 <a href="https://skyline.github.com/johnkegd/2021">
 <img align="right" alt="johnkegd animated logo" width="100%" src="https://media.giphy.com/media/JKEqkGAFwOQIZEBxxj/giphy.gif" />
 </a>
@@ -86,6 +86,6 @@ Software engineer passionate about technology, currently living in Swtizerland�
 
 ---
 
-**Github stats and others:**
+**GitHub stats and others:**
 
 [![Johnkegd github stats](https://github-readme-stats.vercel.app/api?username=johnkegd&theme=dark&include_all_commits=true&count_private=true&icon_color=ffb606&text_color=fafafa&bg_color=0d1117&show_icons=true&hide_border=true&title_color=ffb606 "Johnkegd stats")](https://github.com/johnkegd?tab=repositories)
