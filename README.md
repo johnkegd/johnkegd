@@ -2,7 +2,7 @@
 <img align="right" alt="johnkegd animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 </a>
 
-### Hey 👋🏽, I'm [John Garcia!](https://johnkegd.netlify.app)<br/>
+### Hey 👋🏽, I'm [John Garcia Duran!](https://johnkegd.netlify.app)<br/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
 
-Software engineer passionate about technology, currently living in Switzerland🇨🇭. I'm a member of an amazing coder's community [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working for 👨🏽‍💻 [@Ajila](https://www.ajila.com), member of [@helpwithcovid](https://helpwithcovid.com/). Besides programming and learning, I really enjoy a good coffee, weird experiments with threejs library, and the road with my beautiful motorcycle 🏍.
+Software engineer passionate about technology, currently living in Switzerland🇨🇭. I'm a member of an amazing coder's community [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working for 👨🏽‍💻 [Me], member of [@helpwithcovid](https://helpwithcovid.com/). Besides programming and learning, I really enjoy a good coffee, weird experiments with threejs library, and the road with my beautiful motorcycle 🏍.
 
 
 **Talking about Personal Stuffs:**
@@ -37,7 +37,6 @@ Software engineer passionate about technology, currently living in Switzerland�
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: john.garcia@johnkegd.com;
 - ⚡ Fun fact: learning to code helped me cook better and faster. 😂;
-- 😎 Cool fact: My Girlfriend <a href="https://github.com/Gwendolin-Anna">@gwendolinanna</a> is the number one🏆 in [@SoloLearn](https://www.sololearn.com/profile/12242887) Swtizerland🇨🇭. So she's coders too 🥰.
 - 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeler. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
 
 <h2>2021 Collaborations in 3d ready for VR - click ⬇️</h2>
