@@ -34,9 +34,7 @@ Software engineer passionate about technology, currently living in Switzerland�
 - 👨🏽‍💻 I’m currently working in a personal project on [Solmedicven](https://solmedicven.com) Medical services and equipment 🧡;
 - 🌱 Learning Svelte, AEM, Spring Boot Framework, Threejs 3d animation library, Gsap, Angular and everything I need, to some when create something people want. 🧡;
 - 🤔 Looking for help with Data Structures and Algorithms;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: john.garcia@johnkegd.com;
-- ⚡ Fun fact: learning to code helped me cook better and faster. 😂;
+- 📫 How to reach me: hello@johnkegd.com;
 - 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeler. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
 
 <h2>2021 Collaborations in 3d ready for VR - click ⬇️</h2>
