@@ -2,7 +2,7 @@
 <img align="right" alt="johnkegd animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 </a>
 
-### Hey 👋🏽, I'm [John Garcia Duran!](https://johnkegd.netlify.app)<br/>
+### Hey 👋🏽, I'm [John Garcia Duran!](https://johnkegd.com)<br/>
 
 <br/>
 
