@@ -2,8 +2,6 @@
 <img align="right" alt="johnkegd animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 </a>
 
-### Hey 👋🏽, I'm [John Garcia Duran!](https://johnkegd.com)<br/>
-
 <br/>
 
 <a href="https://stackoverflow.com/users/10732933/johnkegd">
@@ -25,22 +23,6 @@
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=johnkegd.johnkegd)
-
-Software engineer passionate about technology, currently living in Switzerland🇨🇭. I'm a member of an amazing coder's community [@SoloLearn](https://www.sololearn.com/Profile/6936974/), working for 👨🏽‍💻 [Me], member of [@helpwithcovid](https://helpwithcovid.com/). Besides programming and learning, I really enjoy a good coffee, weird experiments with threejs library, and the road with my beautiful motorcycle 🏍.
-
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working in a personal project on [Solmedicven](https://solmedicven.com) Medical services and equipment 🧡;
-- 🌱 Learning Svelte, AEM, Spring Boot Framework, Threejs 3d animation library, Gsap, Angular and everything I need, to some when create something people want. 🧡;
-- 🤔 Looking for help with Data Structures and Algorithms;
-- 📫 How to reach me: hello@johnkegd.com;
-- 😎 Cool fact: My Brother [@Manuelmid](https://github.com/manuelmid) is currently learning code and is a very good and extremely creative 3d modeler. Contact for any work [Cerescrations](https://www.fiverr.com/cerescrations);
-
-<h2>2021 Collaborations in 3d ready for VR - click ⬇️</h2>
-<a href="https://skyline.github.com/johnkegd/2021">
-<img align="right" alt="johnkegd animated logo" width="100%" src="https://media.giphy.com/media/JKEqkGAFwOQIZEBxxj/giphy.gif" />
-</a>
 
 ---
 
