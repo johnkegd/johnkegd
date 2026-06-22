@@ -1,5 +1,5 @@
-<a href="https://github.com/johnkegd">
-<img align="right" alt="johnkegd animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
+<a href="https://johnkegd.com">
+<img alt="johnkegd animated logo" height="150px" src="https://media.giphy.com/media/Uw2O9Vw5kYKIihfZ6w/giphy.gif" />
 </a>
 
 <br/>
